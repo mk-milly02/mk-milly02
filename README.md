@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mk-milly02.
+- 👋 Hi, I’m Jonas.
 - 👀 I’m interested in .NET/C#.
 - 🌱 I’m currently learning how to build desktop apps using the Windows Presentation Foundation.
 - 💞️ I’m looking to collaborate on anything interesting.
