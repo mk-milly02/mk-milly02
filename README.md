@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm a .NET/C# developer from Ghana<br><br>- 📚 I'm currently learning Application Development with .NET MAUI and Backend Development with ASP.NET and Go<br><br>- 💬 Ask me about .NET/C#<br><br>- 📫 How to reach me jonasages@gmail.com<br><br>- ⚡ Fun fact I'm super curious</p>
+<p align="left">A Network Engineer passionate about distributed systems, networking protocols, and backend development.<br>Currently building systems in Go and .NET, while working on enterprise IP/MPLS networks and network automation.</p>
 
 ###
 
@@ -30,8 +30,6 @@
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -49,8 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
@@ -58,13 +54,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mk-milly02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mk-milly02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
